@@ -2,7 +2,11 @@
 title: "Bits and Bytes Series: Introduction to Web APIs (Apr. 1, 2021)"
 layout: "home"
 description: "This page provides a presentation on an Introduction to Web APIs as part of the Bits and Bytes Webinar Series hosted by the Map & Data Library that features presentations and demonstrations on data-related topics and tools, such as web archives, visualization, GIS and statistics."
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 created_date: 2025-02-13
+
 permalink: "/"  #! Remove this if not the homepage
 ---
 
