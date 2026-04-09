@@ -23,8 +23,3 @@ APIs (Application Programing Interfaces) are a major way to access data from bot
 [Link to Handout](http://maps.library.utoronto.ca/workshops/BitsBytesTalks/IntroductionToAPIS.pdf)
 
 Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
-
-  
- 
-
-Technique: [Text and Data Mining](https://mdl.library.utoronto.ca/technique/text-and-data-mining), [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data)
