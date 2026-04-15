@@ -20,6 +20,19 @@ This page provides a presentation on an **Introduction to Web APIs** as part of 
 APIs (Application Programing Interfaces) are a major way to access data from both free and licensed sources. Come to this session to learn: what is an API? Which APIs do you have access to, as a researcher or student at the University of Toronto? How do you request a key in order to access these APIs? And, when is using an API a good idea?
 
 [Link to Recording - 41:52](https://play.library.utoronto.ca/watch/e00bf4cb8c980e9919c3e74e11cc1e7f)  
+
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/e00bf4cb8c980e9919c3e74e11cc1e7f" frameborder="0" allowfullscreen> iframe not supported </iframe>
+
 [Link to Handout](http://maps.library.utoronto.ca/workshops/BitsBytesTalks/IntroductionToAPIS.pdf)
 
+<iframe
+  src="http://maps.library.utoronto.ca/workshops/BitsBytesTalks/IntroductionToAPIS.pdf"
+  width="100%"
+  height=500
+  style="border: none;">
+</iframe>
+
+
 Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
+
+Technique: [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data)
